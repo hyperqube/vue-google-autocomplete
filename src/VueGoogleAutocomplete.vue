@@ -1,5 +1,5 @@
 <template>
-    <input
+    <v-text-field
         ref="autocomplete"
         type="text"
         :class="classname"
